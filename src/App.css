@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: #3cc3fc;
+  padding: 20px;
+}
+
+.navbar {
+  display: block;
+  margin: 0 auto;
+  width: 30px;
+}
